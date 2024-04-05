@@ -1,2 +1,2 @@
-# Estudos_MySQL
- Estudos MySQL para Data Analytics
+# Estudos MySQL
+ Estudos MySQL para Data Analytics arquivos com comando do MySQL
